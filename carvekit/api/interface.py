@@ -74,4 +74,4 @@ class Interface:
                     range(len(images)),
                 )
             )
-        return images
+        return masks

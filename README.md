@@ -12,6 +12,13 @@
 
 
 **********************************************************************
+
+To obtain the foreground masks:
+
+1. `python -m carvekit  -i data/`
+2. `python fill_hole.py`
+
+**********************************************************************
 <p align="center"> <img align="center" width="512" height="288" src="docs/imgs/compare/readme.jpg"> </p>
 
 
